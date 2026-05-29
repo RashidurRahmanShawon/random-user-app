@@ -56,4 +56,4 @@ https://randomuser.me/api/
 
 ## Author
 
-Built by Rashidur Rahman Shawon (Zig Shaw)
+Built with love by Rashidur Rahman Shawon (Zig Shaw)
