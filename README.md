@@ -57,3 +57,4 @@ https://randomuser.me/api/
 ## Author
 
 Built with love by Rashidur Rahman Shawon (Zig Shaw)
+Learning from codex
